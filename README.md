@@ -50,74 +50,7 @@
 
 <div align=center>
 
-<div align=center>
-<h1> 💻 Tech stack 💻 </h1>
 
- <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" alt="arduino" width="45" height="45">
-</a>
- <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg" alt="ai" width="45" height="45">
-</a>
-<a>  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="c" width="45" height="45">
-</a>
- <a>  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="git" width="45" height="45">
- </a>
- <a> <img src="https://img.utdstc.com/icon/012/cf9/012cf9c4c37f23b8f9961de3d2fa2948cb2d148e6ae62aa1b554b78602d12e6d:200"  alt="blackbox" width="45" height="45">
- </a>
-  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="c++" width="45" height="45"> 
- </a>
- <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="postmen" width="45" height="45">
-</a>
-<a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&amp;s" alt="vscode" width="45" height="45">
-</a>
-<a> <img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2" alt="termux" width="45" height="45">
-</a>
-<a> <img src="https://img.utdstc.com/icon/968/ccc/968cccc2d5cb83158f8749cc255be61f84cfd18196aeff93872f7d80a2361f91:200" alt="neo store" width="45" height="45">
-</a>
-<a>  <img src="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" alt="f-droid" width="45" height="45">
-</a>
-<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tor_Browser_icon.svg/2048px-Tor_Browser_icon.svg.png" alt="tor" width="45" height="45">
-</a>
-<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/2089px-Fedora_icon_%282021%29.svg.png" alt="fidora" width="45" height="45">
- </a>
- <a> <img src="https://www.kali.org/tools/gophish/images/gophish-logo.svg" alt="gophish" width="45" height="45">
- </a>
- <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" alt="vmware" width="45" height="45">
- </a>
- <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Dark.svg" alt="unity" width="45" height="45">
-  </a>
-  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/RaspberryPi-Dark.svg" alt="ruspburry pi" width="45" height="45">
-</a>
-<a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Replit-Dark.svg" alt="replit" width="45" height="45">
-</a>
-<a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="python" width="45" height="45">
-</a>
-<a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" alt="linux" width="45" height="45">
-</a>
-<a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="github" width="45"  height="45"/>
- </a>
-  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" alt="windws" width="45" height="45">
- </a>
- <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" alt="unantu" width="45" height="45">
- </a>
-<a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arch-Dark.svg" alt="Arch" width="45" height="45"/>
- </a>
- <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg" alt="kali" width="45" height="45">
- </a>
-
-</div>
-
----
-
-<p align="center">
-  <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="145" width="145" /></a>
-  <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="145" width="145" /></a>
-  <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="145" width="145" /></a>
-  <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="145" width="145" /></a>
-</p>
-
----
-
-<div align=center>
  
 <!--
 **Nand-Ganatra/Nand-Ganatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
