@@ -11,7 +11,7 @@
 
 **👋 Hey, I'm Nand Ganatra  !!**  
 🚀 Coder & Data Scientist!       
-📚 Currently diving into C, Python, JS.   
+📚 Currently diving into C++, Python, JAVA.   
 🔍 Passionate about GEN AI & AGENTIC AI. 
 
 
